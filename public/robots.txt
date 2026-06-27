@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://champatalahighschoolhs.netlify.app/sitemap.xml
